@@ -85,9 +85,9 @@
 
 - [🤔 Why Wrtn Technologies](#-why-wrtn-technologies)  
 - [🔥 Key Features](#-key-features)  
-  - [🛠 Agentica](#-agentica-compiler-driven-function-calling)  
-  - [🎨 Autoview](#-autoview-automated-ui-generator)  
-  - [⚙️ AutoBE](#-autobe-vibe-coding-backend-synthesis)  
+  - [Agentica](#-agentica-compiler-driven-function-calling)  
+  - [Autoview](#-autoview-automated-ui-generator)  
+  - [AutoBE](#-autobe-vibe-coding-backend-synthesis)  
 - [🚀 Getting Started](#-getting-started)  
 - [💡 Use Cases](#-use-cases)  
 - [📜 Code of Conduct](#-code-of-conduct)  
@@ -129,5 +129,4 @@ we eliminate repetitive plumbing, bake in validation at every step, and empower 
 ## 🤝 Contributing
 ---
 
-## 🔗 Links & License
----
+
