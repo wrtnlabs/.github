@@ -2,90 +2,62 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/user-attachments/assets/1fc7c170-742c-44a6-b7c7-a87e798f81ba"
+      srcset="https://github.com/user-attachments/assets/c441babf-fab7-4174-afd0-48569fbf024f"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github.com/user-attachments/assets/147c8c83-44fd-480d-ab29-0284152371b2"
+      srcset="https://github.com/user-attachments/assets/720f366d-8da4-4f29-af69-90cd3d636df0"
     />
     <img
-      src="https://github.com/user-attachments/assets/147c8c83-44fd-480d-ab29-0284152371b2"
+      src="https://github.com/user-attachments/assets/720f366d-8da4-4f29-af69-90cd3d636df0"
       alt="WrtnLabs Logo"
-      width="480"
+      width="360"
     />
   </picture>
 </p>
+
+
+	
 <h2 align="center"><em>Full-Stack AI Pipeline</em></h2>
 
-
 <p align="center">
-Turn a natural-language prompt into a complete backend, AI chatbot &amp; frontend<br/>
-    — secure, accurate and deployable in minutes, with one line of code.
+  Turn a natural-language prompt into a complete backend, AI chatbot &amp; frontend<br/>
+  — secure, accurate and deployable in minutes, with one line of code.
 </p>
 
 
+
+
 <p align="center">
-  <a href="https://wrtnlabs.io/autoview/">
+  <a href="https://github.com/wrtnlabs/agentica">
     <img
-      src="https://img.shields.io/badge/Website-00393E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz4KPHBhdGggZD0iTTIgMTJoMjAiLz4KPHBhdGggZD0iTTEyIDJhMTUuMyAxNS4zIDAgMCAxIDQgMTAgMTUuMyAxNS4zIDAgMCAxLTQgMTAgMTUuMyAxNS4zIDAgMCAxLTQtMTAgMTUuMyAxNS4zIDAgMCAxIDQtMTB6Ii8+Cjwvc3ZnPg==&logoColor=white"
-      alt="Website"
+      src="https://img.shields.io/badge/Agentica-00393E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz4KPHBhdGggZD0iTTIgMTJoMjAiLz4KPHBhdGggZD0iTTEyIDJhMTUuMyAxNS4zIDAgMCAxIDQgMTAgMTUuMyAxNS4zIDAgMCAxLTQgMTAgMTUuMyAxNS4zIDAgMCAxLTQtMTAgMTUuMyAxNS4zIDAgMCAxIDQtMTB6Ii8+Cjwvc3ZnPg==&logoColor=white"
+      alt="Agentica"
     />
   </a>&nbsp;&nbsp;
-  <a href="https://wrtnlabs.io/autoview/docs/">
+  <a href="https://github.com/wrtnlabs/autoview">
     <img
-      src="https://img.shields.io/badge/Docs-00393E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4KPHBhdGggZD0iTTIgM2g2YTQgNCAwIDAgMSA0IDR2MTRhNCA0IDAgMCAwLTQtNEgyWiIvPgo8cGF0aCBkPSJNMjIgM2gtNmE0IDQgMCAwIDAtNCA0djE0YTQgNCAwIDAgMSA0LTRoNnoiLz4KPC9zdmc+&logoColor=white"
-      alt="Docs"
+      src="https://img.shields.io/badge/Autoview-00393E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4KPHBhdGggZD0iTTIgM2g2YTQgNCAwIDAgMSA0IDR2MTRhNCA0IDAgMCAwLTQtNEgyWiIvPgo8cGF0aCBkPSJNMjIgM2gtNmE0IDQgMCAwIDAtNCA0djE0YTQgNCAwIDAgMSA0LTRoNnoiLz4KPC9zdmc+&logoColor=white"
+      alt="Autoview"
     />
   </a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@wrtnlabs">
+  <a href="https://github.com/wrtnlabs/autobe">
     <img
-      src="https://img.shields.io/badge/Tutorial-00393E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4KPHBvbHlnb24gcG9pbnRzPSI2IDMgMjAgMTIgNiAyMSA2IDMiLz4KPC9zdmc+&logoColor=white"
-      alt="Tutorial"
+      src="https://img.shields.io/badge/AutoBE-00393E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4KPHBvbHlnb24gcG9pbnRzPSI2IDMgMjAgMTIgNiAyMSA2IDMiLz4KPC9zdmc+&logoColor=white"
+      alt="AutoBE"
     />
   </a>
-</p>
 
-
-<p align="center">
-  <a href="https://www.youtube.com/@wrtnlabs">
-    <img src="https://img.shields.io/badge/YouTube%20Tutorial-0d1117?style=social&logo=youtube" alt="YouTube"/>
-  </a>
-  &nbsp;
-  <a href="https://discord.gg/aMhRmzkqCx">
-    <img src="https://img.shields.io/badge/Discord-0d1117?style=social&logo=discord" alt="Discord"/>
-  </a>
-</p>
-
-![Auto BE - ReadMe Diagram](https://github.com/user-attachments/assets/b89bff4b-a524-4de6-8103-ca0499693b67)
 
 
 <p align="center">
-  <a href="https://www.bloomberg.com/news/videos/2025-03-31/wtrn-on-series-b-funding-growth-strategy-video">
-    <img src="https://wrtnlabs.io/agentica/images/badges/fund-raising-news-202503.svg" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/wrtnlabs">
-    <img src="https://wrtnlabs.io/agentica/images/badges/open-source-mission.svg" />
-  </a>
+  <img
+    src="https://github.com/user-attachments/assets/ad75b7ea-df69-4972-9f76-778bf9ed23e8"
+    alt="WrtnLabs - ReadMe Diagram"
+    width="800"
+  />
 </p>
 
-
-# Wrtn Labs
-
-> Building the future of AI-powered development workflows.
-
-[![Website](https://img.shields.io/badge/Website-wrtnlabs.io-blue)](https://wrtnlabs.io)  
-[![Email](https://img.shields.io/badge/Contact-wrtnlabs@wrtn.io-green)](mailto:wrtnlabs@wrtn.io)
-
-✨ **Socials** >>  
-<!-- 추가 소셜이 있으면 여기에 삽입 -->
-
-⛏️ **Contribute** >>  
-- [Report Bugs](https://github.com/wrtnlabs/issues)  
-- [Request Feature](https://github.com/wrtnlabs/issues/new?template=feature_request.md)  
-- [Contribute Guide](https://github.com/wrtnlabs/.github/blob/main/CONTRIBUTING.md)
-
----
 
 ## Table of Contents
 
@@ -165,4 +137,26 @@ Links & License
 	•	Docs: https://docs.wrtnlabs.io
 	•	License: MIT © Wrtn Technologies
 
-> 이 템플릿을 기반으로, 실제 로고·배너·링크·커뮤니티 채널을 추가해 조직 단위 README를 완성하시면 됩니다.
+
+	
+<p align="center">
+  <a href="https://www.bloomberg.com/news/videos/2025-03-31/wtrn-on-series-b-funding-growth-strategy-video">
+    <img src="https://wrtnlabs.io/agentica/images/badges/fund-raising-news-202503.svg" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/wrtnlabs">
+    <img src="https://wrtnlabs.io/agentica/images/badges/open-source-mission.svg" />
+  </a>
+</p>
+
+
+
+<p align="center">
+  <a href="https://www.youtube.com/@wrtnlabs">
+    <img src="https://img.shields.io/badge/YouTube%20Tutorial-0d1117?style=social&logo=youtube" alt="YouTube"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/aMhRmzkqCx">
+    <img src="https://img.shields.io/badge/Discord-0d1117?style=social&logo=discord" alt="Discord"/>
+  </a>
+</p>
