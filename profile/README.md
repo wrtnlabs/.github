@@ -49,7 +49,6 @@
   </a>
 
 
-
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/8c6c1061-d6c1-47c4-b2be-9ae60db7851a"
@@ -70,7 +69,6 @@
 </p>
 
 
-
 <p align="center">
   <a href="https://www.youtube.com/@wrtnlabs">
     <img src="https://img.shields.io/badge/YouTube%20Tutorial-0d1117?style=social&logo=youtube" alt="YouTube"/>
@@ -81,83 +79,55 @@
   </a>
 </p>
 
-## Table of Contents
 
-- [Why Wrtn Labs?](#why-wrtn-labs)  
-- [Our Products](#our-products)  
-- [Getting Started](#getting-started)  
-- [Use Cases](#use-cases)  
-- [Code of Conduct](#code-of-conduct)  
-- [Contributing](#contributing)  
-- [Links & License](#links--license)
 
----
+## 📋 Table of Contents
 
-## Why Wrtn Technologies?
-
-We empower developers with **AI-driven tools** that automate code generation, UI rendering, and backend workflows—so you can focus on building great products.
+- [🤔 Why Wrtn Technologies](#-why-wrtn-technologies)  
+- [🔥 Key Features](#-key-features)  
+  - [🛠 Agentica](#-agentica-compiler-driven-function-calling)  
+  - [🎨 Autoview](#-autoview-automated-ui-generator)  
+  - [⚙️ AutoBE](#-autobe-vibe-coding-backend-synthesis)  
+- [🚀 Getting Started](#-getting-started)  
+- [💡 Use Cases](#-use-cases)  
+- [📜 Code of Conduct](#-code-of-conduct)  
+- [🤝 Contributing](#-contributing)  
 
 ---
 
-## Key Feature
+## 🤔 Why Wrtn Technologies?
 
-| Product     | Description                                                   | Stars |
-|-------------|---------------------------------------------------------------|------:|
-| **agentica**  | AI Function-Calling Framework enhanced by compiler skills     | 727  [oai_citation:2‡GitHub](https://github.com/wrtnlabs) |
-| **autoview**  | Automatic view component renderer by AI agent               | 539  [oai_citation:3‡GitHub](https://github.com/wrtnlabs) |
-| **autobe**    | TypeScript backend “Vibe Coding” agent with compiler skills |  61  [oai_citation:4‡GitHub](https://github.com/wrtnlabs) |
-
-> 🔗 [View all repositories](https://github.com/wrtnlabs?tab=repositories)
+We believe that the future of software lies in seamless, AI-driven development pipelines—not isolated helpers, but end-to-end experience that transform ideas into production-ready apps. By combining following feature.
 
 ---
 
-## Getting Started
+## 🔥 Key Feature
 
-1. **Clone the Org Repo**  
-   ```bash
-   git clone https://github.com/wrtnlabs/wrtnlabs
-   cd wrtnlabs
+### Agentica: Compiler-Driven Function Calling
+Safe, accurate AI agents through a compiler-driven approach. Agentica makes function-calling easy, reliable, and model-agnostic, ensuring your agents invoke the right APIs with built-in type safety and error handling.
 
-	2.	Install a Product
+### Autoview: Automated UI Generator
+Instantly generate schema-driven React components from your OpenAPI specs or TypeScript types. Autoview handles layout, props, and styling so you get a fully functional frontend with zero manual coding.
 
-# 예시: autoview 설치
-npm install @wrtnlabs/autoview
-
-
-	3.	Quick Demo
-
-import { renderView } from '@wrtnlabs/autoview';
-
-const ui = renderView({ component: 'Button', props: { label: 'Click me' } });
-document.body.append(ui);
+### AutoBE: Vibe-Coding Backend Synthesis
+Speak your requirements in natural language and receive a NestJS/Prisma/Postgres server out of the box. AutoBE’s spiral model leverages continuous compiler and OpenAPI validation to deliver production-ready backend code.  
 
 
+we eliminate repetitive plumbing, bake in validation at every step, and empower developers to move at the speed of ideas. WrtnLabs is building this unified AI toolchain so that a single natural-language prompt can deliver a fully validated backend, AI chatbot, and frontend—all in minutes and with zero boilerplate.
 
-⸻
+---
 
-Use Cases
-	•	agentica: 자동화된 PR 리뷰, Slack 알림 대리 응답
-	•	autoview: Figma→코드 변환 없는 동적 UI 생성
-	•	autobe: 백엔드 코드 베이스 “바이브 코딩”으로 신속 프로토타이핑
+## 🚀 Getting Started
+---
 
-⸻
+## 💡 Use Cases
+---
 
-Code of Conduct
+## 📜 Code of Conduct
+---
 
-Please read our Code of Conduct before contributing.
+## 🤝 Contributing
+---
 
-⸻
-
-Contributing
-
-We welcome contributions! See our Contributing Guide for details.
-
-⸻
-
-Links & License
-	•	Homepage: https://wrtnlabs.io
-	•	Docs: https://docs.wrtnlabs.io
-	•	License: MIT © Wrtn Technologies
-
-
-
+## 🔗 Links & License
+---
