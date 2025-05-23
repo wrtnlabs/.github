@@ -52,12 +52,34 @@
 
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/ad75b7ea-df69-4972-9f76-778bf9ed23e8"
-    alt="WrtnLabs - ReadMe Diagram"
+    src="https://github.com/user-attachments/assets/8c6c1061-d6c1-47c4-b2be-9ae60db7851a"
+    alt="WrtnLabs Pipeline - ReadMe Diagram"
     width="800"
   />
 </p>
 
+	
+<p align="center">
+  <a href="https://www.bloomberg.com/news/videos/2025-03-31/wtrn-on-series-b-funding-growth-strategy-video">
+    <img src="https://wrtnlabs.io/agentica/images/badges/fund-raising-news-202503.svg" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/wrtnlabs">
+    <img src="https://wrtnlabs.io/agentica/images/badges/open-source-mission.svg" />
+  </a>
+</p>
+
+
+
+<p align="center">
+  <a href="https://www.youtube.com/@wrtnlabs">
+    <img src="https://img.shields.io/badge/YouTube%20Tutorial-0d1117?style=social&logo=youtube" alt="YouTube"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/aMhRmzkqCx">
+    <img src="https://img.shields.io/badge/Discord-0d1117?style=social&logo=discord" alt="Discord"/>
+  </a>
+</p>
 
 ## Table of Contents
 
@@ -77,7 +99,7 @@ We empower developers with **AI-driven tools** that automate code generation, UI
 
 ---
 
-## Our Products
+## Key Feature
 
 | Product     | Description                                                   | Stars |
 |-------------|---------------------------------------------------------------|------:|
@@ -138,25 +160,4 @@ Links & License
 	•	License: MIT © Wrtn Technologies
 
 
-	
-<p align="center">
-  <a href="https://www.bloomberg.com/news/videos/2025-03-31/wtrn-on-series-b-funding-growth-strategy-video">
-    <img src="https://wrtnlabs.io/agentica/images/badges/fund-raising-news-202503.svg" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/wrtnlabs">
-    <img src="https://wrtnlabs.io/agentica/images/badges/open-source-mission.svg" />
-  </a>
-</p>
 
-
-
-<p align="center">
-  <a href="https://www.youtube.com/@wrtnlabs">
-    <img src="https://img.shields.io/badge/YouTube%20Tutorial-0d1117?style=social&logo=youtube" alt="YouTube"/>
-  </a>
-  &nbsp;
-  <a href="https://discord.gg/aMhRmzkqCx">
-    <img src="https://img.shields.io/badge/Discord-0d1117?style=social&logo=discord" alt="Discord"/>
-  </a>
-</p>
